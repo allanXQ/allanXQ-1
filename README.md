@@ -117,8 +117,11 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Async Operations in Loops: Navigating the JavaScript Asynchrony](https://allanjuma.hashnode.dev/async-operations-in-loops-navigating-the-javascript-asynchrony)
+- [Managing Transactions in Mongoose with Node.js](https://allanjuma.hashnode.dev/managing-transactions-in-mongoose-with-nodejs)
+- [Node Js: JWT best practices](https://allanjuma.hashnode.dev/node-js-jwt-best-practices)
+- [How to integrate MPESA API to node js application](https://allanjuma.hashnode.dev/how-to-integrate-mpesa-api-to-node-js-application)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
