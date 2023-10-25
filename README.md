@@ -6,7 +6,7 @@
 ### <div align="center">I'm Allan, a full-stack software developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Verdant v2](https://github.com/allanXQ/verdantv2)  
+- 🔭 I’m currently working on [Verdant v2]([https://github.com/allanXQ/verdantv2](https://github.com/allanXQ/Verdant_v2))  
   
 
 - 🌱 I’m currently learning AWS and Kubernetes  
