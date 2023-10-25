@@ -6,7 +6,7 @@
 ### <div align="center">I'm Allan, a full-stack software developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Verdant v2](https://github.com/allanXQ/verdantv2)  
   
 
 - 🌱 I’m currently learning AWS and Kubernetes  
@@ -91,7 +91,7 @@
 <a href="https://github.com/allanXQ" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/allanjuma" target="_blank">
+<a href="https://twitter.com/allancjuma" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/allanjuma" target="_blank">
